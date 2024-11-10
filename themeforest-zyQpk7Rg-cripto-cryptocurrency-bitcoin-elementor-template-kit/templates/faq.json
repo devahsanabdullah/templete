@@ -1,0 +1,829 @@
+{
+    "version": "0.4",
+    "title": "FAQ",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "169ed10e",
+            "settings": {
+                "background_background": "gradient",
+                "background_color": "#37065D",
+                "background_color_b": "#9E07A4",
+                "background_gradient_angle": {
+                    "unit": "deg",
+                    "size": 60,
+                    "sizes": []
+                },
+                "background_image": {
+                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/cryptocurrency-exchange-market_2.jpg",
+                    "id": 595,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/cryptocurrency-exchange-market_2.jpg",
+                    "id": 595,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.6999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "-110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "195",
+                    "right": "0",
+                    "bottom": "85",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "animation": "fadeIn",
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover"
+            },
+            "elements": [
+                {
+                    "id": "43d8df61",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "41610b14",
+                            "settings": {
+                                "title": "FAQ",
+                                "header_size": "h1",
+                                "align": "center",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "2aff3ad7",
+            "settings": {
+                "structure": "20",
+                "margin": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4fe7e8bf",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 49
+                    },
+                    "elements": [
+                        {
+                            "id": "67ad7c15",
+                            "settings": {
+                                "title": "Frequently Asked Questions",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "b0977f7",
+                            "settings": {
+                                "editor": "<p>Donec at mattis ligula. Duis dolor arcu, tempor in accumsan id, finibus a ipsum. Nam vitae ante mattis, pulvinar erat non, scelerisque augue ullam corper augue felis, ac efficitur diam posuere in maecenas tristique.<\/p>",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "676b2282",
+                            "settings": {
+                                "text": "View Details",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "rotateInUpLeft"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "6c47458a",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 51,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "30",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInRight"
+                    },
+                    "elements": [
+                        {
+                            "id": "1eee8e7",
+                            "settings": {
+                                "ekit_accordion_items": [
+                                    {
+                                        "acc_title": "Are cryptocurrencies different from blockchain?",
+                                        "acc_content": "<p>Suspendisse pharetra turpis velit. Praesent fringilla, urna eget tristique molestie, erat justo finibus massa, placerat enim risus sit amet metus. Mauris quis massa varius, suscipit libero.<\/p>",
+                                        "ekit_acc_is_active": "yes",
+                                        "_id": "f0567e7"
+                                    },
+                                    {
+                                        "acc_title": "What do cryptocurrencies do? ",
+                                        "acc_content": "<p>Suspendisse pharetra turpis velit. Praesent fringilla, urna eget tristique molestie, erat justo finibus massa, placerat enim risus sit amet metus. Mauris quis massa varius, suscipit libero.<\/p>",
+                                        "_id": "aa1b4e1"
+                                    },
+                                    {
+                                        "acc_title": "Are cryptocurrencies energy inefficient?",
+                                        "acc_content": "<p>Suspendisse pharetra turpis velit. Praesent fringilla, urna eget tristique molestie, erat justo finibus massa, placerat enim risus sit amet metus. Mauris quis massa varius, suscipit libero.<\/p>",
+                                        "_id": "f66b635"
+                                    }
+                                ],
+                                "ekit_accordion_background_background": "gradient",
+                                "ekit_accordion_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "ekit_accordion_border_radious_curve_shape_open": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_background_close_background": "classic",
+                                "ekit_accordion_border_radious_close": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_content_padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "ekit_accordion_background_color_b": "globals\/colors?id=103493d",
+                                    "ekit_accordion_background_color": "globals\/colors?id=secondary",
+                                    "ekit_accordion_title_color": "globals\/colors?id=primary",
+                                    "ekit_accordion_title_typography_typography": "globals\/typography?id=primary",
+                                    "ekit_accordion_title_color_close": "globals\/colors?id=text",
+                                    "ekit_accordion_background_close_color": "globals\/colors?id=fba7e5c"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "21876e02",
+            "settings": {
+                "content_position": "middle",
+                "structure": "20",
+                "background_overlay_background": "classic",
+                "background_overlay_position": "center center",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.90000000000000002220446049250313080847263336181640625,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "105",
+                    "right": "0",
+                    "bottom": "105",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "30",
+                    "bottom": "80",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "animation": "fadeIn",
+                "ekit_has_onepagescroll_dot": "yes",
+                "ekit_onepagescroll_tooltip_text": "",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/picture-of-golden-bitcoin-lying-on-the-display-wit-GRDMHE7.jpg",
+                    "id": 260,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=97c0666"
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "32308d89",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "-10",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "30",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInLeft"
+                    },
+                    "elements": [
+                        {
+                            "id": "1468a153",
+                            "settings": {
+                                "ekit_accordion_items": [
+                                    {
+                                        "acc_title": "What are cryptocurrencies?",
+                                        "ekit_acc_is_active": "yes",
+                                        "_id": "048fa19"
+                                    },
+                                    {
+                                        "acc_title": "How do cryptocurrencies work?",
+                                        "_id": "7670c23"
+                                    },
+                                    {
+                                        "acc_title": "How to buy or invest in cryptocurrencies?",
+                                        "_id": "b8fa725"
+                                    },
+                                    {
+                                        "acc_title": "Are cryptocurrencies prone to fraud?",
+                                        "_id": "8937de2"
+                                    },
+                                    {
+                                        "acc_title": "Why do the price of cryptocurrencies fluctuate?",
+                                        "_id": "ae091d6"
+                                    },
+                                    {
+                                        "acc_title": "Why the world needed cryptocurrencies?",
+                                        "_id": "2e41cc6"
+                                    }
+                                ],
+                                "ekit_accordion_background_background": "gradient",
+                                "ekit_accordion_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "ekit_accordion_border_radious_curve_shape_open": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_background_close_background": "classic",
+                                "ekit_accordion_border_radious_close": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "ekit_accordion_content_padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "ekit_accordion_background_color_b": "globals\/colors?id=103493d",
+                                    "ekit_accordion_background_color": "globals\/colors?id=secondary",
+                                    "ekit_accordion_title_color": "globals\/colors?id=primary",
+                                    "ekit_accordion_title_typography_typography": "globals\/typography?id=primary",
+                                    "ekit_accordion_title_color_close": "globals\/colors?id=text",
+                                    "ekit_accordion_background_close_color": "globals\/colors?id=fba7e5c"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "336fad5",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInRight"
+                    },
+                    "elements": [
+                        {
+                            "id": "4f67d119",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/freepik-isometric-glowing-business-analytics-icons-set_6.png",
+                                    "id": 735,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "ha_advanced_tooltip_content": "I am a tooltip"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "45921b74",
+            "settings": {
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_image": {
+                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/investment-stockbroker-stock-trading-TR5GP7U.jpg",
+                    "id": 168,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_attachment": "fixed",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.05000000000000000277555756156289135105907917022705078125,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "90",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7f31bb85",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "5bc878d3",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "3c7f936b",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "606c84f",
+                                            "settings": {
+                                                "title": "Our Global Level Partners",
+                                                "align": "center",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "6648343b",
+                            "settings": {
+                                "logo_list": [
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_1.png",
+                                            "id": 617,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "860f178",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_2.png",
+                                            "id": 618,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "262972f",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_3.png",
+                                            "id": 619,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "e055a8c",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_4.png",
+                                            "id": 620,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "411ea35",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_5.png",
+                                            "id": 621,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "fa0bccd",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_1.png",
+                                            "id": 622,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "eb9ccc3",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_2.png",
+                                            "id": 623,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "81e54c7",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_3.png",
+                                            "id": 624,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "82fbae4",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_4.png",
+                                            "id": 625,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "name": "",
+                                        "_id": "5d7ad32"
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_5.png",
+                                            "id": 626,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "name": "",
+                                        "_id": "0e06944"
+                                    }
+                                ],
+                                "layout": "tictactoe",
+                                "columns": "5",
+                                "height": {
+                                    "unit": "px",
+                                    "size": 130,
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "px",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "grid_border_width": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "grid_border_color": "#FFFFFF1A",
+                                "image_opacity": {
+                                    "unit": "px",
+                                    "size": 0.40000000000000002220446049250313080847263336181640625,
+                                    "sizes": []
+                                },
+                                "image_opacity_hover": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "hover_animation": "grow",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "25",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInUp",
+                                "__globals__": {
+                                    "grid_border_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "ha-logo-grid",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "ha_grid_zindex": "1000",
+        "template": "elementor_canvas"
+    }
+}

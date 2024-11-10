@@ -1,0 +1,341 @@
+{
+    "version": "0.4",
+    "title": "Testimonials Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-testimonial",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "276432c1",
+            "settings": {
+                "content_position": "middle",
+                "structure": "20",
+                "background_overlay_background": "classic",
+                "background_overlay_position": "center center",
+                "background_overlay_size": "cover",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.90000000000000002220446049250313080847263336181640625,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "85",
+                    "right": "0",
+                    "bottom": "85",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "30",
+                    "bottom": "40",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "animation": "fadeIn",
+                "ekit_has_onepagescroll_dot": "yes",
+                "ekit_onepagescroll_tooltip_text": "",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/picture-of-golden-bitcoin-lying-on-the-display-wit-GRDMHE7.jpg",
+                    "id": 260,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=97c0666"
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "70b69846",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "100",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1dc6bab8",
+                            "settings": {
+                                "title": "See What Our Clients \nSay\u2019s About Us",
+                                "header_size": "h3",
+                                "_animation": "fadeInUp",
+                                "ha_advanced_tooltip_content": "I am a tooltip"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7f81d941",
+                            "settings": {
+                                "editor": "<p>Etiam scelerisque nec elit ac efficitur. Duis vestibulum magna sit amet ante gravida malesuada nunc gravida<\/p>",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 100,
+                                "ha_advanced_tooltip_content": "I am a tooltip"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "29d51cb4",
+                            "settings": {
+                                "text": "See More",
+                                "_animation": "rotateInUpLeft",
+                                "ha_advanced_tooltip_content": "I am a tooltip"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "340531a0",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "-10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7ae60bd2",
+                            "settings": {
+                                "ekit_testimonial_style": "style5",
+                                "ekit_testimonial_rating_enable": "",
+                                "ekit_testimonial_data": [
+                                    {
+                                        "client_name": "Pelican Steve",
+                                        "designation": "Financial Officer",
+                                        "review": "Cras vestibulum arcu sit amet erat accumsan vehicula. Curabitur \naliquam sapien in posuere volutpat. Sed vinar elit sapien, non \naccumsan enim malesuada eu. ",
+                                        "client_photo": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/accountant-in-office-PHNC7LQ.jpg",
+                                            "id": 267,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "use_hover_logo": "",
+                                        "_id": "2dd22c8"
+                                    },
+                                    {
+                                        "client_name": "John Hamilton",
+                                        "_id": "73b4a45",
+                                        "designation": "Art Director",
+                                        "review": "Cras vestibulum arcu sit amet erat accumsan vehicula. Curabitur \naliquam sapien in posuere volutpat. Sed vinar elit sapien, non \naccumsan enim malesuada eu. ",
+                                        "client_photo": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elegant-confident-man-doctor-dentist-wearing-lab-c-K94ZGCY.jpg",
+                                            "id": 266,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "use_hover_logo": ""
+                                    },
+                                    {
+                                        "client_name": "Megan Herrera",
+                                        "designation": "Team Lead",
+                                        "review": "Cras vestibulum arcu sit amet erat accumsan vehicula. Curabitur \naliquam sapien in posuere volutpat. Sed vinar elit sapien, non \naccumsan enim malesuada eu. ",
+                                        "client_photo": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/accountant-in-office-PHNC7LQ.jpg",
+                                            "id": 267,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "use_hover_logo": "",
+                                        "_id": "5cac2b5"
+                                    }
+                                ],
+                                "ekit_testimonial_layout_padding": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "40",
+                                    "bottom": "40",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_layout_border_radius": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_testimonial_layout_background_background": "classic",
+                                "ekit_testimonial_layout_background_color": "#02010100",
+                                "ekit_testimonial_layout_border_border": "solid",
+                                "ekit_testimonial_layout_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "ekit_testimonial_layout_border_color": "#E702BF5E",
+                                "ekit_testimonial_layout_shadow_box_shadow_type": "yes",
+                                "ekit_testimonial_layout_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(0,0,0,0.5)"
+                                },
+                                "ekit_testimonial_section_wathermark_color": "#E702BF5E",
+                                "ekit_testimonial_section_wathermark_typography": {
+                                    "unit": "px",
+                                    "size": 70,
+                                    "sizes": []
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "ekit_testimonial_layout_border_color": "",
+                                    "ekit_testimonial_description_color": "globals\/colors?id=primary",
+                                    "ekit_testimonial_client_name_normal_color": "globals\/colors?id=primary",
+                                    "ekit_testimonial_designation_normal_color": "globals\/colors?id=secondary",
+                                    "ekit_testimonial_client_dot_background_color": "globals\/colors?id=secondary",
+                                    "ekit_testimonial_client_dot_active_background_color": "globals\/colors?id=92bfebb",
+                                    "ekit_testimonial_client_name_typography_typography": "globals\/typography?id=bfd1ef6",
+                                    "ekit_testimonial_designation_typography_typography": "globals\/typography?id=9758d28"
+                                },
+                                "ekit_testimonial_show_dot": "yes",
+                                "ekit_testimonial_description_color": "#FFFFFF",
+                                "ekit_testimonial_client_name_normal_color": "#FFFFFF",
+                                "ekit_testimonial_designation_normal_color": "#EC5046",
+                                "ekit_testimonial_client_dot_bottom": {
+                                    "unit": "px",
+                                    "size": -20,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_dot_background_background": "classic",
+                                "ekit_testimonial_client_dot_background_color": "#EC5046",
+                                "ekit_testimonial_client_dot_active_background_background": "classic",
+                                "ekit_testimonial_client_dot_active_background_color": "#2DE4C1",
+                                "_animation": "fadeInRight",
+                                "ekit_testimonial_slidetoshow_tablet": 1,
+                                "ekit_testimonial_slidesToScroll_tablet": 1,
+                                "ekit_testimonial_layout_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "20",
+                                    "bottom": "30",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_section_wathermark_typography_mobile": {
+                                    "unit": "px",
+                                    "size": 45,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_img_pos_mobile": "top",
+                                "ekit_testimonial_client_area_alignment": "client_left",
+                                "ekit_testimonial_client_image_margin__mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "-40",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "ha_grid_zindex": "1000",
+        "template": "elementor_canvas"
+    }
+}

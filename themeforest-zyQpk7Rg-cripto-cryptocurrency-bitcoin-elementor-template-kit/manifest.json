@@ -1,0 +1,1667 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Cripto - Cryptocurrency & Bitcoin Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Section",
+            "screenshot": "screenshots\/header-section.jpg",
+            "source": "templates\/header-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/header-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Section",
+            "screenshot": "screenshots\/footer-section.jpg",
+            "source": "templates\/footer-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/footer-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform \u2013 Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/metform-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform \u2013 Newsletter",
+            "screenshot": "screenshots\/metform-newsletter.jpg",
+            "source": "templates\/metform-newsletter.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/metform-newsletter\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Token Sale",
+            "screenshot": "screenshots\/token-sale.jpg",
+            "source": "templates\/token-sale.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/token-sale\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Road Map",
+            "screenshot": "screenshots\/road-map.jpg",
+            "source": "templates\/road-map.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/road-map\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hero Image Section",
+            "screenshot": "screenshots\/hero-image-section.jpg",
+            "source": "templates\/hero-image-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/hero-image-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Features Section",
+            "screenshot": "screenshots\/features-section.jpg",
+            "source": "templates\/features-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/features-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "ICO Start Timer Section",
+            "screenshot": "screenshots\/ico-start-timer-section.jpg",
+            "source": "templates\/ico-start-timer-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/ico-start-timer-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-countdown",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Benefits Section",
+            "screenshot": "screenshots\/benefits-section.jpg",
+            "source": "templates\/benefits-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/benefits-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Cripto Road Map Section",
+            "screenshot": "screenshots\/cripto-road-map-section.jpg",
+            "source": "templates\/cripto-road-map-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/cripto-road-map-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Callout Section",
+            "screenshot": "screenshots\/callout-section.jpg",
+            "source": "templates\/callout-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/callout-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials Section",
+            "screenshot": "screenshots\/testimonials-section.jpg",
+            "source": "templates\/testimonials-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/testimonials-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News Section",
+            "screenshot": "screenshots\/news-section.jpg",
+            "source": "templates\/news-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/news-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Section",
+            "screenshot": "screenshots\/about-section.jpg",
+            "source": "templates\/about-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/about-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Why Cripto Section",
+            "screenshot": "screenshots\/why-cripto-section.jpg",
+            "source": "templates\/why-cripto-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/why-cripto-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team Section",
+            "screenshot": "screenshots\/team-section.jpg",
+            "source": "templates\/team-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/team-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Clients Section",
+            "screenshot": "screenshots\/clients-section.jpg",
+            "source": "templates\/clients-section.json",
+            "preview_url": "https:\/\/kinforce.net\/cripto\/template-kit\/clients-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-clients",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.4.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Graphina - Elementor Charts and Graphs",
+            "version": "1.5.7",
+            "file": "graphina-elementor-charts-and-graphs\/graphina-charts-for-elementor.php",
+            "author": "Iqonic Design"
+        },
+        {
+            "name": "Happy Elementor Addons",
+            "version": "3.1.0",
+            "file": "happy-elementor-addons\/plugin.php",
+            "author": "weDevs"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.4",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "elements-gravitate-letter-g-logo-template-TD5X6QY.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/07\/elements-gravitate-letter-g-logo-template-TD5X6QY.png",
+            "templates": [
+                {
+                    "source": "templates\/header-section.json",
+                    "name": "Header Section"
+                },
+                {
+                    "source": "templates\/footer-section.json",
+                    "name": "Footer Section"
+                }
+            ],
+            "filesize": 5328,
+            "dimensions": [
+                144,
+                48
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-TD5X6QY"
+        },
+        {
+            "filename": "gridscape-backgrounds-NF6LAQJ.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/gridscape-backgrounds-NF6LAQJ-800x278.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer-section.json",
+                    "name": "Footer Section"
+                }
+            ],
+            "filesize": 408281,
+            "dimensions": [
+                1920,
+                666
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NF6LAQJ"
+        },
+        {
+            "filename": "cryptocurrency-exchange-market.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/cryptocurrency-exchange-market-800x404.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/hero-image-section.json",
+                    "name": "Hero Image Section"
+                }
+            ],
+            "filesize": 453980,
+            "dimensions": [
+                1920,
+                969
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/cryptocurrency-exchange-market-isometric-landing-page-digital-money-mining-computer-smartphone-screen-with-trading-chart_12029531.htm"
+        },
+        {
+            "filename": "elements-30-cryptocurrency-icons-flat-ZBZ8VZC_1.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC_1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/features-section.json",
+                    "name": "Features Section"
+                }
+            ],
+            "filesize": 3884,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC"
+        },
+        {
+            "filename": "elements-30-cryptocurrency-icons-flat-ZBZ8VZC_2.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC_2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/features-section.json",
+                    "name": "Features Section"
+                }
+            ],
+            "filesize": 3505,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC"
+        },
+        {
+            "filename": "elements-30-cryptocurrency-icons-flat-ZBZ8VZC_3.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC_3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/features-section.json",
+                    "name": "Features Section"
+                }
+            ],
+            "filesize": 3905,
+            "dimensions": [
+                125,
+                125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC"
+        },
+        {
+            "filename": "investment-stockbroker-stock-trading-TR5GP7U.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/investment-stockbroker-stock-trading-TR5GP7U-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/ico-start-timer-section.json",
+                    "name": "ICO Start Timer Section"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 150878,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TR5GP7U"
+        },
+        {
+            "filename": "freepik-isometric-glowing-business-analytics-icons-set.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/freepik-isometric-glowing-business-analytics-icons-set.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/ico-start-timer-section.json",
+                    "name": "ICO Start Timer Section"
+                }
+            ],
+            "filesize": 18902,
+            "dimensions": [
+                544,
+                501
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/isometric-glowing-business-analytics-icons-set-with-people-making-various-graphs-diagrams-3d-isolated-vector-illustration_7201655.htm"
+        },
+        {
+            "filename": "elements-30-cryptocurrency-icons-flat-ZBZ8VZC_4.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC_4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/benefits-section.json",
+                    "name": "Benefits Section"
+                },
+                {
+                    "source": "templates\/why-cripto-section.json",
+                    "name": "Why Cripto Section"
+                }
+            ],
+            "filesize": 3202,
+            "dimensions": [
+                105,
+                105
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC"
+        },
+        {
+            "filename": "elements-30-cryptocurrency-icons-flat-ZBZ8VZC_5.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC_5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/benefits-section.json",
+                    "name": "Benefits Section"
+                },
+                {
+                    "source": "templates\/why-cripto-section.json",
+                    "name": "Why Cripto Section"
+                }
+            ],
+            "filesize": 3223,
+            "dimensions": [
+                105,
+                105
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC"
+        },
+        {
+            "filename": "elements-30-cryptocurrency-icons-flat-ZBZ8VZC_6.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC_6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/benefits-section.json",
+                    "name": "Benefits Section"
+                },
+                {
+                    "source": "templates\/why-cripto-section.json",
+                    "name": "Why Cripto Section"
+                }
+            ],
+            "filesize": 2536,
+            "dimensions": [
+                105,
+                105
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC"
+        },
+        {
+            "filename": "elements-30-cryptocurrency-icons-flat-ZBZ8VZC_7.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC_7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/benefits-section.json",
+                    "name": "Benefits Section"
+                },
+                {
+                    "source": "templates\/why-cripto-section.json",
+                    "name": "Why Cripto Section"
+                }
+            ],
+            "filesize": 3457,
+            "dimensions": [
+                105,
+                105
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC"
+        },
+        {
+            "filename": "elements-30-cryptocurrency-icons-flat-ZBZ8VZC_8.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC_8.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/benefits-section.json",
+                    "name": "Benefits Section"
+                },
+                {
+                    "source": "templates\/why-cripto-section.json",
+                    "name": "Why Cripto Section"
+                }
+            ],
+            "filesize": 3211,
+            "dimensions": [
+                105,
+                105
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC"
+        },
+        {
+            "filename": "elements-30-cryptocurrency-icons-flat-ZBZ8VZC_9.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC_9.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/benefits-section.json",
+                    "name": "Benefits Section"
+                },
+                {
+                    "source": "templates\/why-cripto-section.json",
+                    "name": "Why Cripto Section"
+                }
+            ],
+            "filesize": 3553,
+            "dimensions": [
+                105,
+                105
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC"
+        },
+        {
+            "filename": "freepik-worldmap-background-design.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/freepik-worldmap-background-design-800x400.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/road-map.json",
+                    "name": "Road Map"
+                },
+                {
+                    "source": "templates\/cripto-road-map-section.json",
+                    "name": "Cripto Road Map Section"
+                }
+            ],
+            "filesize": 38033,
+            "dimensions": [
+                1167,
+                584
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/worldmap-background-design_1019996.htm"
+        },
+        {
+            "filename": "picture-of-golden-bitcoin-lying-on-the-display-wit-GRDMHE7.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/picture-of-golden-bitcoin-lying-on-the-display-wit-GRDMHE7-800x350.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/road-map.json",
+                    "name": "Road Map"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                }
+            ],
+            "filesize": 436791,
+            "dimensions": [
+                1920,
+                841
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-GRDMHE7"
+        },
+        {
+            "filename": "accountant-in-office-PHNC7LQ.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/accountant-in-office-PHNC7LQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                }
+            ],
+            "filesize": 2955,
+            "dimensions": [
+                73,
+                73
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHNC7LQ"
+        },
+        {
+            "filename": "elegant-confident-man-doctor-dentist-wearing-lab-c-K94ZGCY.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elegant-confident-man-doctor-dentist-wearing-lab-c-K94ZGCY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                }
+            ],
+            "filesize": 3613,
+            "dimensions": [
+                73,
+                73
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-K94ZGCY"
+        },
+        {
+            "filename": "freepik-isometric-glowing-business-analytics-icons-set_2.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/freepik-isometric-glowing-business-analytics-icons-set_2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/road-map.json",
+                    "name": "Road Map"
+                },
+                {
+                    "source": "templates\/news-section.json",
+                    "name": "News Section"
+                }
+            ],
+            "filesize": 17454,
+            "dimensions": [
+                558,
+                441
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/isometric-glowing-business-analytics-icons-set-with-people-making-various-graphs-diagrams-3d-isolated-vector-illustration_7201655.htm"
+        },
+        {
+            "filename": "cryptocurrency-exchange-market_2.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/cryptocurrency-exchange-market_2-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/road-map.json",
+                    "name": "Road Map"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 28168,
+            "dimensions": [
+                1920,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/cryptocurrency-exchange-market-isometric-landing-page-digital-money-mining-computer-smartphone-screen-with-trading-chart_12029531.htm"
+        },
+        {
+            "filename": "freepik-isometric-glowing-business-analytics-icons-set_3.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/freepik-isometric-glowing-business-analytics-icons-set_3.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-section.json",
+                    "name": "About Section"
+                }
+            ],
+            "filesize": 15666,
+            "dimensions": [
+                510,
+                516
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/isometric-glowing-business-analytics-icons-set-with-people-making-various-graphs-diagrams-3d-isolated-vector-illustration_7201655.htm"
+        },
+        {
+            "filename": "black-businessman-wearing-suit-and-tie-smiling-H2WS7A6.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/black-businessman-wearing-suit-and-tie-smiling-H2WS7A6.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 47710,
+            "dimensions": [
+                267,
+                368
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H2WS7A6"
+        },
+        {
+            "filename": "businesswoman-portrait-8U9PJNY.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/businesswoman-portrait-8U9PJNY.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 41177,
+            "dimensions": [
+                254,
+                368
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8U9PJNY"
+        },
+        {
+            "filename": "business-concept-portrait-handsome-business-man-co-YV9ABZR.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/business-concept-portrait-handsome-business-man-co-YV9ABZR.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 37953,
+            "dimensions": [
+                280,
+                379
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YV9ABZR"
+        },
+        {
+            "filename": "elements-30-premade-logos-feminine-edition-TBYVF5_1.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1179,
+            "dimensions": [
+                150,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-premade-logos-feminine-edition-TBYVF5"
+        },
+        {
+            "filename": "elements-30-premade-logos-feminine-edition-TBYVF5_2.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_2.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1314,
+            "dimensions": [
+                150,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-premade-logos-feminine-edition-TBYVF5"
+        },
+        {
+            "filename": "elements-30-premade-logos-feminine-edition-TBYVF5_3.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_3.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 984,
+            "dimensions": [
+                150,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-premade-logos-feminine-edition-TBYVF5"
+        },
+        {
+            "filename": "elements-30-premade-logos-feminine-edition-TBYVF5_4.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_4.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1237,
+            "dimensions": [
+                150,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-premade-logos-feminine-edition-TBYVF5"
+        },
+        {
+            "filename": "elements-30-premade-logos-feminine-edition-TBYVF5_5.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_5.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1462,
+            "dimensions": [
+                150,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-30-premade-logos-feminine-edition-TBYVF5"
+        },
+        {
+            "filename": "elements-elegant-company-logo-VVLG4M3_1.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1140,
+            "dimensions": [
+                150,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-elegant-company-logo-VVLG4M3"
+        },
+        {
+            "filename": "elements-elegant-company-logo-VVLG4M3_2.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_2.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1394,
+            "dimensions": [
+                150,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-elegant-company-logo-VVLG4M3"
+        },
+        {
+            "filename": "elements-elegant-company-logo-VVLG4M3_3.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_3.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1021,
+            "dimensions": [
+                150,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-elegant-company-logo-VVLG4M3"
+        },
+        {
+            "filename": "elements-elegant-company-logo-VVLG4M3_4.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_4.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 1680,
+            "dimensions": [
+                150,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-elegant-company-logo-VVLG4M3"
+        },
+        {
+            "filename": "elements-elegant-company-logo-VVLG4M3_5.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_5.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/clients-section.json",
+                    "name": "Clients Section"
+                }
+            ],
+            "filesize": 2159,
+            "dimensions": [
+                150,
+                70
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-elegant-company-logo-VVLG4M3"
+        },
+        {
+            "filename": "female-hacker-wearing-a-hoodie-using-a-dangerous-v-XLRB4XR.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/female-hacker-wearing-a-hoodie-using-a-dangerous-v-XLRB4XR-800x545.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 139634,
+            "dimensions": [
+                1250,
+                852
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XLRB4XR"
+        },
+        {
+            "filename": "freepik-isometric-glowing-business-analytics-icons-set_4.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/freepik-isometric-glowing-business-analytics-icons-set_4.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 16608,
+            "dimensions": [
+                570,
+                398
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/isometric-glowing-business-analytics-icons-set-with-people-making-various-graphs-diagrams-3d-isolated-vector-illustration_7201655.htm"
+        },
+        {
+            "filename": "freepik-isometric-glowing-business-analytics-icons-set_5.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/freepik-isometric-glowing-business-analytics-icons-set_5.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 16777,
+            "dimensions": [
+                570,
+                447
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/isometric-glowing-business-analytics-icons-set-with-people-making-various-graphs-diagrams-3d-isolated-vector-illustration_7201655.htm"
+        },
+        {
+            "filename": "businessman-standing-at-outdoor-HPZTY6Q.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/businessman-standing-at-outdoor-HPZTY6Q.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 47536,
+            "dimensions": [
+                370,
+                414
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HPZTY6Q"
+        },
+        {
+            "filename": "confident-businesswoman-armed-crossed-NRNMPW8.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/confident-businesswoman-armed-crossed-NRNMPW8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 48723,
+            "dimensions": [
+                370,
+                414
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NRNMPW8"
+        },
+        {
+            "filename": "professional-business-woman-NVFK4M9.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/professional-business-woman-NVFK4M9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 54616,
+            "dimensions": [
+                370,
+                414
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NVFK4M9"
+        },
+        {
+            "filename": "serious-caucasian-businessman-WK7HTE9.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/serious-caucasian-businessman-WK7HTE9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 49282,
+            "dimensions": [
+                370,
+                414
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WK7HTE9"
+        },
+        {
+            "filename": "confident-businessman-QWVC4G6.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/confident-businessman-QWVC4G6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 49216,
+            "dimensions": [
+                370,
+                414
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QWVC4G6"
+        },
+        {
+            "filename": "confident-businessman-standing-with-arms-crossed-QM72TH4.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/confident-businessman-standing-with-arms-crossed-QM72TH4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 44904,
+            "dimensions": [
+                370,
+                414
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QM72TH4"
+        },
+        {
+            "filename": "confident-entrepreneur-posing-for-photography-7FGYHMQ.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/confident-entrepreneur-posing-for-photography-7FGYHMQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 54819,
+            "dimensions": [
+                370,
+                414
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7FGYHMQ"
+        },
+        {
+            "filename": "pretty-entrepreneur-posing-for-photography-VYGLUJP.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/pretty-entrepreneur-posing-for-photography-VYGLUJP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 48420,
+            "dimensions": [
+                370,
+                414
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VYGLUJP"
+        },
+        {
+            "filename": "freepik-isometric-glowing-business-analytics-icons-set_6.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/freepik-isometric-glowing-business-analytics-icons-set_6.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 22401,
+            "dimensions": [
+                570,
+                565
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/isometric-glowing-business-analytics-icons-set-with-people-making-various-graphs-diagrams-3d-isolated-vector-illustration_7201655.htm"
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "version": "0.4",
+    "title": "Cripto Road Map Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "1668fd12",
+            "settings": {
+                "background_background": "gradient",
+                "background_color": "#381163",
+                "background_color_b": "#4F126B",
+                "background_gradient_angle": {
+                    "unit": "deg",
+                    "size": 90,
+                    "sizes": []
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/freepik-worldmap-background-design.png",
+                    "id": 232,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_attachment": "fixed",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "90",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": ""
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "30",
+                    "bottom": "80",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "a39e07f",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "14239055",
+                            "settings": {
+                                "title": "Cripto Road Map",
+                                "align": "center",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "14cc4cc4",
+                            "settings": {
+                                "timeline": [
+                                    {
+                                        "event_date": "Mar 01, 2021",
+                                        "_id": "70e482a",
+                                        "event_icon": {
+                                            "value": "far fa-dot-circle",
+                                            "library": "fa-regular"
+                                        },
+                                        "image": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "event_description": "<p>Lorem ipsum dolor sit amet, viverra lacus, eu pretium leo massa nec massa<\/p>"
+                                    },
+                                    {
+                                        "event_date": "Apr 02, 2021",
+                                        "_id": "7f575fb",
+                                        "event_icon": {
+                                            "value": "far fa-dot-circle",
+                                            "library": "fa-regular"
+                                        },
+                                        "image": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "event_description": "<p>Lorem ipsum dolor sit amet, viverra lacus, eu pretium leo massa nec massa<\/p>"
+                                    },
+                                    {
+                                        "event_date": "May 03, 2021",
+                                        "_id": "bc13394",
+                                        "event_icon": {
+                                            "value": "far fa-dot-circle",
+                                            "library": "fa-regular"
+                                        },
+                                        "image": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "event_description": "<p>Lorem ipsum dolor sit amet, viverra lacus, eu pretium leo massa nec massa<\/p>"
+                                    },
+                                    {
+                                        "event_date": "Jun 04, 2021",
+                                        "_id": "1c28e4c",
+                                        "event_icon": {
+                                            "value": "far fa-dot-circle",
+                                            "library": "fa-regular"
+                                        },
+                                        "image": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "event_description": "<p>Lorem ipsum dolor sit amet, viverra lacus, eu pretium leo massa nec massa<\/p>"
+                                    }
+                                ],
+                                "slides_to_show": "3",
+                                "arrow_prev_icon": {
+                                    "value": "hm hm-play-previous",
+                                    "library": "happy-icons"
+                                },
+                                "arrow_next_icon": {
+                                    "value": "hm hm-play-next",
+                                    "library": "happy-icons"
+                                },
+                                "line_spacing": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "line_color": "#E702BF",
+                                "date_typography_typography": "custom",
+                                "date_typography_font_family": "Poppins",
+                                "date_typography_font_weight": "600",
+                                "date_color": "#FFFFFF",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "icon_border_border": "solid",
+                                "icon_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "icon_border_color": "#E702BF",
+                                "event_icon_background_color": "#3D147100",
+                                "event_icon_color": "#E702BF",
+                                "arrow_vertical_alignment": {
+                                    "unit": "%",
+                                    "size": 26,
+                                    "sizes": []
+                                },
+                                "arrow_border_border": "solid",
+                                "arrow_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "arrow_color": "#FFFFFF",
+                                "content_border_radius": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "content_padding": {
+                                    "unit": "px",
+                                    "size": 35,
+                                    "sizes": []
+                                },
+                                "content_space": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "content_background_color": "#350E59",
+                                "description_color": "#FFFFFF",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 100,
+                                "__globals__": {
+                                    "description_color": "globals\/colors?id=primary",
+                                    "line_color": "globals\/colors?id=103493d",
+                                    "date_color": "globals\/colors?id=primary",
+                                    "date_typography_typography": "globals\/typography?id=accent",
+                                    "icon_border_color": "globals\/colors?id=103493d",
+                                    "event_icon_color": "globals\/colors?id=103493d",
+                                    "arrow_color": "globals\/colors?id=primary",
+                                    "content_background_color": ""
+                                },
+                                "slides_to_show_mobile": "1",
+                                "arrow_vertical_alignment_tablet": {
+                                    "unit": "%",
+                                    "size": 19.5,
+                                    "sizes": []
+                                },
+                                "content_space_tablet": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "ha-horizontal-timeline",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "ha_grid_zindex": "1000",
+        "template": "elementor_canvas"
+    }
+}

@@ -1,0 +1,1930 @@
+{
+    "version": "0.4",
+    "title": "Token Sale",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "7c2b24a9",
+            "settings": {
+                "background_background": "gradient",
+                "background_color": "#37065D",
+                "background_color_b": "#9E07A4",
+                "background_gradient_angle": {
+                    "unit": "deg",
+                    "size": 60,
+                    "sizes": []
+                },
+                "background_image": {
+                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/cryptocurrency-exchange-market_2.jpg",
+                    "id": 595,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/cryptocurrency-exchange-market_2.jpg",
+                    "id": 595,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.6999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "-110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "195",
+                    "right": "0",
+                    "bottom": "85",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "animation": "fadeIn",
+                "background_overlay_position": "center center",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover"
+            },
+            "elements": [
+                {
+                    "id": "3bb88100",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "113a2737",
+                            "settings": {
+                                "title": "Token Sale",
+                                "header_size": "h1",
+                                "align": "center",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "d0df902",
+            "settings": {
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "gap_columns_custom": {
+                    "unit": "px",
+                    "size": 15,
+                    "sizes": []
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "6b3a1820",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "align": "center",
+                        "animation": "fadeInUp",
+                        "animation_delay": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "3a05fe13",
+                            "settings": {
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC_1.png",
+                                    "id": 130,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ekit_icon_box_title_text": "Safe and Secure",
+                                "ekit_icon_box_description_text": "Vivamus risus purus, vulputate a sagittis, suscipit scelerisque massa at mattis odio vitae libero semper.",
+                                "ekit_icon_box_enable_btn": "",
+                                "ekit_icon_box_btn_text": "Learn more ",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_box_infobox_bg_group_background": "classic",
+                                "ekit_icon_box_infobox_bg_group_color": "#2B0C47",
+                                "ekit_icon_box_iocnbox_border_group_border": "solid",
+                                "ekit_icon_box_iocnbox_border_group_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_border_radious": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_color": "#FFFFFF",
+                                "ekit_icon_title_color_hover": "#FFFFFF",
+                                "ekit_icon_description_color": "#FFFFFF",
+                                "ekit_icon_description_color_hover": "#FFFFFF",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "ekit_icon_box_infobox_bg_group_color": "globals\/colors?id=fba7e5c",
+                                    "ekit_icon_title_color": "globals\/colors?id=primary",
+                                    "ekit_icon_title_color_hover": "globals\/colors?id=text",
+                                    "ekit_icon_description_color": "globals\/colors?id=primary",
+                                    "ekit_icon_description_color_hover": "globals\/colors?id=primary",
+                                    "ekit_icon_description_typography_group_typography": "globals\/typography?id=text",
+                                    "ekit_icon_title_typography_group_typography": "globals\/typography?id=354f741"
+                                },
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "60",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_bg_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "20",
+                                    "bottom": "50",
+                                    "left": "20",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3a580373",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "hm hm-angle-right",
+                                    "library": "happy-icons"
+                                },
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "hover_animation": "grow",
+                                "size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-42",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "11",
+                                    "right": "0",
+                                    "bottom": "1",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_background_background": "gradient",
+                                "_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "_background_hover_background": "gradient",
+                                "_background_hover_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "_border_radius": {
+                                    "unit": "%",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 44,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=primary",
+                                    "secondary_color": "globals\/colors?id=primary",
+                                    "_background_color": "globals\/colors?id=secondary",
+                                    "_background_color_b": "globals\/colors?id=103493d",
+                                    "_background_hover_color": "globals\/colors?id=103493d",
+                                    "_background_hover_color_b": "globals\/colors?id=secondary"
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "13",
+                                    "right": "0",
+                                    "bottom": "2",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "4e13a3db",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "align": "center",
+                        "animation": "fadeInUp",
+                        "animation_delay": 200,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "194bace7",
+                            "settings": {
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC_2.png",
+                                    "id": 131,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ekit_icon_box_title_text": "Automated Buy & Sell",
+                                "ekit_icon_box_description_text": "Vivamus risus purus, vulputate a sagittis, suscipit scelerisque massa at mattis odio vitae libero semper.",
+                                "ekit_icon_box_enable_btn": "",
+                                "ekit_icon_box_btn_text": "Learn more ",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_box_infobox_bg_group_background": "classic",
+                                "ekit_icon_box_infobox_bg_group_color": "#2B0C47",
+                                "ekit_icon_box_iocnbox_border_group_border": "solid",
+                                "ekit_icon_box_iocnbox_border_group_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_border_radious": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_color": "#FFFFFF",
+                                "ekit_icon_title_color_hover": "#FFFFFF",
+                                "ekit_icon_description_color": "#FFFFFF",
+                                "ekit_icon_description_color_hover": "#FFFFFF",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "ekit_icon_box_infobox_bg_group_color": "globals\/colors?id=fba7e5c",
+                                    "ekit_icon_title_color": "globals\/colors?id=primary",
+                                    "ekit_icon_title_color_hover": "globals\/colors?id=text",
+                                    "ekit_icon_description_color": "globals\/colors?id=primary",
+                                    "ekit_icon_description_color_hover": "globals\/colors?id=primary",
+                                    "ekit_icon_description_typography_group_typography": "globals\/typography?id=text",
+                                    "ekit_icon_title_typography_group_typography": "globals\/typography?id=354f741"
+                                },
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "60",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_bg_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "20",
+                                    "bottom": "50",
+                                    "left": "20",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "48cb3c2c",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "hm hm-angle-right",
+                                    "library": "happy-icons"
+                                },
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "hover_animation": "grow",
+                                "size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-42",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "11",
+                                    "right": "0",
+                                    "bottom": "1",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_background_background": "gradient",
+                                "_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "_background_hover_background": "gradient",
+                                "_background_hover_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "_border_radius": {
+                                    "unit": "%",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 44,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=primary",
+                                    "secondary_color": "globals\/colors?id=primary",
+                                    "_background_color": "globals\/colors?id=secondary",
+                                    "_background_color_b": "globals\/colors?id=103493d",
+                                    "_background_hover_color": "globals\/colors?id=103493d",
+                                    "_background_hover_color_b": "globals\/colors?id=secondary"
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "13",
+                                    "right": "0",
+                                    "bottom": "2",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5e204184",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "align": "center",
+                        "animation": "fadeInUp",
+                        "animation_delay": 300,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "101326f5",
+                            "settings": {
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-cryptocurrency-icons-flat-ZBZ8VZC_3.png",
+                                    "id": 132,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "ekit_icon_box_title_text": "24x7 Customer Support",
+                                "ekit_icon_box_description_text": "Vivamus risus purus, vulputate a sagittis, suscipit scelerisque massa at mattis odio vitae libero semper.",
+                                "ekit_icon_box_enable_btn": "",
+                                "ekit_icon_box_btn_text": "Learn more ",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_box_infobox_bg_group_background": "classic",
+                                "ekit_icon_box_infobox_bg_group_color": "#2B0C47",
+                                "ekit_icon_box_iocnbox_border_group_border": "solid",
+                                "ekit_icon_box_iocnbox_border_group_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_border_radious": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_title_color": "#FFFFFF",
+                                "ekit_icon_title_color_hover": "#FFFFFF",
+                                "ekit_icon_description_color": "#FFFFFF",
+                                "ekit_icon_description_color_hover": "#FFFFFF",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "ekit_icon_box_infobox_bg_group_color": "globals\/colors?id=fba7e5c",
+                                    "ekit_icon_title_color": "globals\/colors?id=primary",
+                                    "ekit_icon_title_color_hover": "globals\/colors?id=text",
+                                    "ekit_icon_description_color": "globals\/colors?id=primary",
+                                    "ekit_icon_description_color_hover": "globals\/colors?id=primary",
+                                    "ekit_icon_description_typography_group_typography": "globals\/typography?id=text",
+                                    "ekit_icon_title_typography_group_typography": "globals\/typography?id=354f741"
+                                },
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "60",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_bg_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "20",
+                                    "bottom": "50",
+                                    "left": "20",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1d4c30f0",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "hm hm-angle-right",
+                                    "library": "happy-icons"
+                                },
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "hover_animation": "grow",
+                                "size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-42",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "11",
+                                    "right": "0",
+                                    "bottom": "1",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_background_background": "gradient",
+                                "_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "_background_hover_background": "gradient",
+                                "_background_hover_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "_border_radius": {
+                                    "unit": "%",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 44,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=primary",
+                                    "secondary_color": "globals\/colors?id=primary",
+                                    "_background_color": "globals\/colors?id=secondary",
+                                    "_background_color_b": "globals\/colors?id=103493d",
+                                    "_background_hover_color": "globals\/colors?id=103493d",
+                                    "_background_hover_color_b": "globals\/colors?id=secondary"
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "13",
+                                    "right": "0",
+                                    "bottom": "2",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5cf89388",
+            "settings": {
+                "structure": "20",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/investment-stockbroker-stock-trading-TR5GP7U.jpg",
+                    "id": 168,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.84999999999999997779553950749686919152736663818359375,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=97c0666"
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "30",
+                    "bottom": "80",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "30",
+                    "bottom": "60",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "2a5996ed",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "9549329",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/freepik-isometric-glowing-business-analytics-icons-set.png",
+                                    "id": 172,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "image_size": "full",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInLeft"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "70168372",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "align_mobile": "center",
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1748b9ed",
+                            "settings": {
+                                "title": "ICO Starts in",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInDown",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2db7e5c",
+                            "settings": {
+                                "title": "Token Will Starts on Dec 3rd 2021",
+                                "header_size": "h5",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=92bfebb"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-8",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 100,
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2b3d89cc",
+                            "settings": {
+                                "ekit_countdown_timer_due_time": "2021-12-03 00:00",
+                                "ekit_countdown_timer_weeks_label": "Weeks",
+                                "ekit_countdown_timer_days_label": "Days",
+                                "ekit_countdown_timer_hours_label": "Hours",
+                                "ekit_countdown_timer_minutes_hours_label": "Minutes",
+                                "ekit_countdown_timer_seconds_hours_label": "Seconds",
+                                "ekit_countdown_timer_title": "Countdown is finished!",
+                                "ekit_countdown_timer_expiry_content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s",
+                                "ekit_countdown_timer_days_width": {
+                                    "unit": "px",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ekit_countdown_timer_days__line_height": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "ekit_countdown_timer_days_digits_margin_bottom": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "ekit_countdown_timer_days_background_group_background": "classic",
+                                "ekit_countdown_timer_days_background_group_color": "#02010100",
+                                "ekit_countdown_timer_hours_digits_margin_bottom": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "ekit_countdown_timer_hours_background_background": "classic",
+                                "ekit_countdown_timer_hours_background_color": "#02010100",
+                                "ekit_countdown_timer_minutes_digits_margin_bottom": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "ekit_countdown_timer_minutes_background_background": "classic",
+                                "ekit_countdown_timer_minutes_background_color": "#02010100",
+                                "ekit_countdown_timer_seconds_digits_margin_bottom": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "ekit_countdown_timer_seconds_background_background": "classic",
+                                "ekit_countdown_timer_seconds_background_color": "#02010100",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "25",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_background_background": "classic",
+                                "_background_color": "#00000033",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "20",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "_background_color": "",
+                                    "ekit_countdown_timer_days_label_typography_group_typography": "globals\/typography?id=6bc423e",
+                                    "ekit_countdown_timer_hours_label_typography_group_typography": "globals\/typography?id=6bc423e",
+                                    "ekit_countdown_timer_minutes_label_typography_group_typography": "globals\/typography?id=6bc423e",
+                                    "ekit_countdown_timer_seconds_label_typography_group_typography": "globals\/typography?id=6bc423e",
+                                    "ekit_countdown_timer_days_digits_typography_group_typography": "globals\/typography?id=69dd886",
+                                    "ekit_countdown_timer_hours_digits_typography_group_typography": "globals\/typography?id=69dd886",
+                                    "ekit_countdown_timer_minutes_digits_typography_group_typography": "globals\/typography?id=69dd886",
+                                    "ekit_countdown_timer_seconds_digits_typography_group_typography": "globals\/typography?id=69dd886"
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 200,
+                                "ekit_countdown_timer_days_width_mobile": {
+                                    "unit": "px",
+                                    "size": 260,
+                                    "sizes": []
+                                },
+                                "ekit_countdown_timer_days_height_tablet": {
+                                    "unit": "px",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "ekit_countdown_timer_content_margin_bottom_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-countdown-timer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3bd482ab",
+                            "settings": {
+                                "title": "$46,345,789",
+                                "header_size": "h3",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 300,
+                                "_element_width": "auto",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6785e00b",
+                            "settings": {
+                                "title": "contribution received",
+                                "header_size": "h5",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 300,
+                                "_element_width": "auto",
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6855d1bb",
+            "settings": {
+                "structure": "20",
+                "margin": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "561aca02",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "animation": "fadeInUp",
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=fba7e5c"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5ef8406d",
+                            "settings": {
+                                "iq_donut_chart_heading": "Token Allocation",
+                                "iq_donut_is_card_desc_show": "",
+                                "iq_donut_chart_content": "My Other Example Heading",
+                                "iq_donut_chart_inner_radius": 50,
+                                "iq_donut_chart_no_data_text": "No Data Available",
+                                "iq_donut_chart_datalabel_show": "yes",
+                                "iq_donut_chart_datalabel_font_color": "#FFFFFF",
+                                "iq_donut_chart_tooltip_theme": "dark",
+                                "iq_donut_chart_stroke_show": "",
+                                "iq_donut_chart_legend_position": "right",
+                                "iq_donut_chart_gradient_1_1": "#0BE1F7",
+                                "iq_donut_chart_gradient_1_2": "#6632C9",
+                                "iq_donut_chart_gradient_1_3": "#E53EFC",
+                                "iq_donut_chart_gradient_1_4": "#EDB93B",
+                                "iq_donut_chart_label0": " Token Sale",
+                                "iq_donut_chart_value0": 100,
+                                "iq_donut_chart_label1": " Reserve Capital",
+                                "iq_donut_chart_label2": " Founders",
+                                "iq_donut_chart_value2": 70,
+                                "iq_donut_chart_label3": " Team",
+                                "iq_donut_chart_label4": " Advisors",
+                                "iq_donut_chart_label5": "July",
+                                "iq_donut_chart_label6": "Aug",
+                                "iq_donut_chart_label7": "Sep",
+                                "iq_donut_chart_label8": "Oct",
+                                "iq_donut_chart_label9": "Nov",
+                                "iq_donut_chart_label10": "Dec",
+                                "iq_donut_chart_label11": "Jan1",
+                                "iq_donut_chart_label12": "Feb1",
+                                "iq_donut_chart_label13": "Mar1",
+                                "iq_donut_chart_label14": "Apr1",
+                                "iq_donut_card_title_font_color": "#FFFFFF",
+                                "iq_donut_card_title_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "iq_donut_card_background_background": "classic",
+                                "iq_donut_card_background_color": "#2B0C4700",
+                                "iq_donut_card_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "iq_donut_chart_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "iq_donut_chart_font_weight": "600",
+                                "iq_donut_chart_font_color": "#FFFFFF",
+                                "iq_donut_chart_border_show": "",
+                                "iq_donut_chart_background_background": "classic",
+                                "iq_donut_chart_background_color": "#02010100",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_background_background": "classic",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "iq_donut_chart_font_color": "",
+                                    "iq_donut_card_background_color": "",
+                                    "iq_donut_card_title_font_color": "",
+                                    "_background_color": "globals\/colors?id=fba7e5c"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "donut_chart",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "6ddf6084",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInUp",
+                        "animation_delay": 100,
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=fba7e5c"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "66ed8b54",
+                            "settings": {
+                                "iq_pie_chart_heading": "Funds Allocation",
+                                "iq_pie_is_card_desc_show": "",
+                                "iq_pie_chart_content": "My Other Example Heading",
+                                "iq_pie_can_chart_show_toolbar": "",
+                                "iq_pie_chart_no_data_text": "No Data Available",
+                                "iq_pie_chart_datalabel_show": "yes",
+                                "iq_pie_chart_datalabel_font_color": "#FFFFFF",
+                                "iq_pie_chart_tooltip_theme": "dark",
+                                "iq_pie_chart_legend_position": "right",
+                                "iq_pie_chart_gradient_1_1": "#0BE1F7",
+                                "iq_pie_chart_gradient_1_2": "#6632C9",
+                                "iq_pie_chart_gradient_1_3": "#E53EFC",
+                                "iq_pie_chart_gradient_1_4": "#EDB93B",
+                                "iq_pie_chart_label0": " Legal & Regulation",
+                                "iq_pie_chart_label1": " Marketing",
+                                "iq_pie_chart_label2": " Contingency",
+                                "iq_pie_chart_label3": " Partners",
+                                "iq_pie_chart_label4": " Administration",
+                                "iq_pie_chart_label5": "July",
+                                "iq_pie_chart_label6": "Aug",
+                                "iq_pie_chart_label7": "Sep",
+                                "iq_pie_chart_label8": "Oct",
+                                "iq_pie_chart_label9": "Nov",
+                                "iq_pie_chart_label10": "Dec",
+                                "iq_pie_chart_label11": "Jan1",
+                                "iq_pie_chart_label12": "Feb1",
+                                "iq_pie_chart_label13": "Mar1",
+                                "iq_pie_chart_label14": "Apr1",
+                                "iq_pie_card_title_typography_typography": "custom",
+                                "iq_pie_card_title_typography_font_family": "Poppins",
+                                "iq_pie_card_title_typography_font_weight": "700",
+                                "iq_pie_card_title_font_color": "#FFFFFF",
+                                "iq_pie_card_title_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "iq_pie_card_subtitle_font_color": "#FFFFFF",
+                                "iq_pie_card_background_background": "classic",
+                                "iq_pie_card_background_color": "#2B0C4700",
+                                "iq_pie_card_border_width": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "iq_pie_card_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "iq_pie_chart_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "iq_pie_chart_font_weight": "600",
+                                "iq_pie_chart_font_color": "#FFFFFF",
+                                "iq_pie_chart_border_show": "",
+                                "iq_pie_chart_background_background": "classic",
+                                "iq_pie_chart_background_color": "#02010100",
+                                "iq_pie_chart_border_border": "solid",
+                                "iq_pie_chart_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "21",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_background_background": "classic",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "iq_pie_card_title_typography_typography": "globals\/typography?id=primary",
+                                    "iq_pie_card_background_color": "",
+                                    "iq_pie_card_title_font_color": "",
+                                    "_background_color": "globals\/colors?id=fba7e5c"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "pie_chart",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6f3c1a0d",
+            "settings": {
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/investment-stockbroker-stock-trading-TR5GP7U.jpg",
+                    "id": 168,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_overlay_position": "center center",
+                "background_overlay_attachment": "fixed",
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.05000000000000000277555756156289135105907917022705078125,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "90",
+                    "right": "0",
+                    "bottom": "110",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "30",
+                    "bottom": "90",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "58632553",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "5147f794",
+                            "settings": [],
+                            "elements": [
+                                {
+                                    "id": "278079d1",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "c8d1c46",
+                                            "settings": {
+                                                "title": "Our Global Level Partners",
+                                                "align": "center",
+                                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "37b153a8",
+                            "settings": {
+                                "logo_list": [
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_1.png",
+                                            "id": 617,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "860f178",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_2.png",
+                                            "id": 618,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "262972f",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_3.png",
+                                            "id": 619,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "e055a8c",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_4.png",
+                                            "id": 620,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "411ea35",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-30-premade-logos-feminine-edition-TBYVF5_5.png",
+                                            "id": 621,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "fa0bccd",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_1.png",
+                                            "id": 622,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "eb9ccc3",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_2.png",
+                                            "id": 623,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "81e54c7",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_3.png",
+                                            "id": 624,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "_id": "82fbae4",
+                                        "name": ""
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_4.png",
+                                            "id": 625,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "name": "",
+                                        "_id": "5d7ad32"
+                                    },
+                                    {
+                                        "image": {
+                                            "url": "https:\/\/kinforce.net\/cripto\/wp-content\/uploads\/2021\/08\/elements-elegant-company-logo-VVLG4M3_5.png",
+                                            "id": 626,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "name": "",
+                                        "_id": "0e06944"
+                                    }
+                                ],
+                                "layout": "tictactoe",
+                                "columns": "5",
+                                "height": {
+                                    "unit": "px",
+                                    "size": 130,
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "px",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "grid_border_width": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "grid_border_color": "#FFFFFF1A",
+                                "image_opacity": {
+                                    "unit": "px",
+                                    "size": 0.40000000000000002220446049250313080847263336181640625,
+                                    "sizes": []
+                                },
+                                "image_opacity_hover": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "hover_animation": "grow",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "25",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInUp",
+                                "__globals__": {
+                                    "grid_border_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "ha-logo-grid",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "8923496",
+            "settings": {
+                "structure": "20",
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "3b532994",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 49
+                    },
+                    "elements": [
+                        {
+                            "id": "e00fe14",
+                            "settings": {
+                                "title": "Token Allocation Summary",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "110b0df5",
+                            "settings": {
+                                "editor": "<p>Donec at mattis ligula. Duis dolor arcu, tempor in accumsan id, finibus a ipsum. Nam vitae ante mattis, pulvinar erat non, scelerisque augue ullam corper augue felis, ac efficitur diam posuere in maecenas tristique.<\/p>",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2f02db02",
+                            "settings": {
+                                "text": "View Details",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "_animation": "rotateInUpLeft"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "76ebf49e",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 51,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "30",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInRight"
+                    },
+                    "elements": [
+                        {
+                            "id": "29affde1",
+                            "settings": {
+                                "ekit_progressbar_style": "pin-style",
+                                "ekit_progressbar_title": "Post-UTO Community Reserve - 15.000.00",
+                                "ekit_progressbar_percentage": 80,
+                                "ekit_progressbar_background_background": "classic",
+                                "ekit_progressbar_background_color": "#FFFFFF29",
+                                "ekit_progressbar_background_color_b": "#E702BF",
+                                "ekit_progressbar_track_color_background": "gradient",
+                                "ekit_progressbar_track_color_color": "#EC5046",
+                                "ekit_progressbar_track_color_color_b": "#E702BF",
+                                "ekit_progressbar_track_color_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_title_color": "#FFFFFF",
+                                "ekit_progressbar_title_typography_typography": "custom",
+                                "ekit_progressbar_title_typography_font_family": "Poppins",
+                                "ekit_progressbar_title_typography_font_weight": "700",
+                                "ekit_progressbar_percent_typography_font_family": "Poppins",
+                                "ekit_progressbar_percent_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_percent_typography_font_weight": "600",
+                                "ekit_progressbar_percent_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.600000000000000088817841970012523233890533447265625,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_percent_pin_bg": "#E702BF",
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "ekit_progressbar_title_color": "globals\/colors?id=primary",
+                                    "ekit_progressbar_background_color": "",
+                                    "ekit_progressbar_background_color_b": "globals\/colors?id=103493d",
+                                    "ekit_progressbar_track_color_color": "globals\/colors?id=secondary",
+                                    "ekit_progressbar_track_color_color_b": "globals\/colors?id=103493d",
+                                    "ekit_progressbar_title_typography_typography": "globals\/typography?id=primary",
+                                    "ekit_progressbar_percent_pin_bg": "globals\/colors?id=103493d",
+                                    "ekit_progressbar_percent_typography_typography": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-progressbar",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "75f06b67",
+                            "settings": {
+                                "ekit_progressbar_style": "pin-style",
+                                "ekit_progressbar_title": "Token Offer - 56.000.00",
+                                "ekit_progressbar_percentage": 50,
+                                "ekit_progressbar_background_background": "classic",
+                                "ekit_progressbar_background_color": "#FFFFFF29",
+                                "ekit_progressbar_background_color_b": "#E702BF",
+                                "ekit_progressbar_track_color_background": "gradient",
+                                "ekit_progressbar_track_color_color": "#EC5046",
+                                "ekit_progressbar_track_color_color_b": "#E702BF",
+                                "ekit_progressbar_track_color_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_title_color": "#FFFFFF",
+                                "ekit_progressbar_title_typography_typography": "custom",
+                                "ekit_progressbar_title_typography_font_family": "Poppins",
+                                "ekit_progressbar_title_typography_font_weight": "700",
+                                "ekit_progressbar_percent_typography_font_family": "Poppins",
+                                "ekit_progressbar_percent_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_percent_typography_font_weight": "600",
+                                "ekit_progressbar_percent_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.600000000000000088817841970012523233890533447265625,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_percent_pin_bg": "#E702BF",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "ekit_progressbar_title_color": "globals\/colors?id=primary",
+                                    "ekit_progressbar_background_color": "",
+                                    "ekit_progressbar_background_color_b": "globals\/colors?id=103493d",
+                                    "ekit_progressbar_track_color_color": "globals\/colors?id=secondary",
+                                    "ekit_progressbar_track_color_color_b": "globals\/colors?id=103493d",
+                                    "ekit_progressbar_title_typography_typography": "globals\/typography?id=primary",
+                                    "ekit_progressbar_percent_pin_bg": "globals\/colors?id=103493d",
+                                    "ekit_progressbar_percent_typography_typography": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-progressbar",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "16652cfc",
+                            "settings": {
+                                "ekit_progressbar_style": "pin-style",
+                                "ekit_progressbar_title": "UTO Bounties - 15.500.00",
+                                "ekit_progressbar_percentage": 70,
+                                "ekit_progressbar_background_background": "classic",
+                                "ekit_progressbar_background_color": "#FFFFFF29",
+                                "ekit_progressbar_background_color_b": "#E702BF",
+                                "ekit_progressbar_track_color_background": "gradient",
+                                "ekit_progressbar_track_color_color": "#EC5046",
+                                "ekit_progressbar_track_color_color_b": "#E702BF",
+                                "ekit_progressbar_track_color_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_title_color": "#FFFFFF",
+                                "ekit_progressbar_title_typography_typography": "custom",
+                                "ekit_progressbar_title_typography_font_family": "Poppins",
+                                "ekit_progressbar_title_typography_font_weight": "700",
+                                "ekit_progressbar_percent_typography_font_family": "Poppins",
+                                "ekit_progressbar_percent_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_percent_typography_font_weight": "600",
+                                "ekit_progressbar_percent_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.600000000000000088817841970012523233890533447265625,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_percent_pin_bg": "#E702BF",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "ekit_progressbar_title_color": "globals\/colors?id=primary",
+                                    "ekit_progressbar_background_color": "",
+                                    "ekit_progressbar_background_color_b": "globals\/colors?id=103493d",
+                                    "ekit_progressbar_track_color_color": "globals\/colors?id=secondary",
+                                    "ekit_progressbar_track_color_color_b": "globals\/colors?id=103493d",
+                                    "ekit_progressbar_title_typography_typography": "globals\/typography?id=primary",
+                                    "ekit_progressbar_percent_pin_bg": "globals\/colors?id=103493d",
+                                    "ekit_progressbar_percent_typography_typography": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-progressbar",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3872a685",
+                            "settings": {
+                                "ekit_progressbar_style": "pin-style",
+                                "ekit_progressbar_title": "Post-UTO Community Building - 18.000.00",
+                                "ekit_progressbar_background_background": "classic",
+                                "ekit_progressbar_background_color": "#FFFFFF29",
+                                "ekit_progressbar_background_color_b": "#E702BF",
+                                "ekit_progressbar_track_color_background": "gradient",
+                                "ekit_progressbar_track_color_color": "#EC5046",
+                                "ekit_progressbar_track_color_color_b": "#E702BF",
+                                "ekit_progressbar_track_color_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 90,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_title_color": "#FFFFFF",
+                                "ekit_progressbar_title_typography_typography": "custom",
+                                "ekit_progressbar_title_typography_font_family": "Poppins",
+                                "ekit_progressbar_title_typography_font_weight": "700",
+                                "ekit_progressbar_percent_typography_font_family": "Poppins",
+                                "ekit_progressbar_percent_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_percent_typography_font_weight": "600",
+                                "ekit_progressbar_percent_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.600000000000000088817841970012523233890533447265625,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_percent_pin_bg": "#E702BF",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ha_advanced_tooltip_content": "I am a tooltip",
+                                "__globals__": {
+                                    "ekit_progressbar_title_color": "globals\/colors?id=primary",
+                                    "ekit_progressbar_background_color": "",
+                                    "ekit_progressbar_background_color_b": "globals\/colors?id=103493d",
+                                    "ekit_progressbar_track_color_color": "globals\/colors?id=secondary",
+                                    "ekit_progressbar_track_color_color_b": "globals\/colors?id=103493d",
+                                    "ekit_progressbar_title_typography_typography": "globals\/typography?id=primary",
+                                    "ekit_progressbar_percent_pin_bg": "globals\/colors?id=103493d",
+                                    "ekit_progressbar_percent_typography_typography": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-progressbar",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "ha_grid_zindex": "1000",
+        "template": "elementor_canvas"
+    }
+}
